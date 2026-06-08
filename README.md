@@ -35,10 +35,10 @@ Outubro – Dezembro 2023 · 5 filiais · Curitiba, PR
 
 ## Páginas do Dashboard
 ### Visão Geral de Vendas
-![Visão Geral](imagens/pagina1_visao_geral.png)
+![Visão Geral](https://raw.githubusercontent.com/isadorangomes/dashboard-vendas-moda-powerbi/main/imagens/pagina1_visao_geral.png)
 
 ### Segmentação de Clientes
-![Segmentação](imagens/pagina2_segmentacao.png)
+![Segmentação](https://raw.githubusercontent.com/isadorangomes/dashboard-vendas-moda-powerbi/main/imagens/pagina2_segmentacao.png)
 
 ### Recomendações Estratégicas
-![Recomendações](imagens/pagina3_recomendacoes.png)
+![Recomendações](https://raw.githubusercontent.com/isadorangomes/dashboard-vendas-moda-powerbi/main/imagens/pagina3_recomendacoes.png)
