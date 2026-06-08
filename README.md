@@ -34,11 +34,11 @@ Outubro – Dezembro 2023 · 5 filiais · Curitiba, PR
 - `relatorio/` — arquivo .pbix do Power BI
 
 ## Páginas do Dashboard
-### Visão Geral de Vendas
-![Visão Geral](https://raw.githubusercontent.com/isadorangomes/dashboard-vendas-moda-powerbi/main/imagens/pagina1_visao_geral.png)
+##VISÃO GERAL 
+![Visão Geral](https://raw.githubusercontent.com/isadorangomes/dashboard-vendas-moda-powerbi/main/dashboard-vendas-moda-powerbi/imagens/pagina1_visao_geral.png)
 
-### Segmentação de Clientes
-![Segmentação](https://raw.githubusercontent.com/isadorangomes/dashboard-vendas-moda-powerbi/main/imagens/pagina2_segmentacao.png)
+##SEGMENTAÇÃO
+![Segmentação](https://raw.githubusercontent.com/isadorangomes/dashboard-vendas-moda-powerbi/main/dashboard-vendas-moda-powerbi/imagens/pagina2_segmentacao.png)
 
-### Recomendações Estratégicas
-![Recomendações](https://raw.githubusercontent.com/isadorangomes/dashboard-vendas-moda-powerbi/main/imagens/pagina3_recomendacoes.png)
+##RECOMENDAÇÕES
+![Recomendações](https://raw.githubusercontent.com/isadorangomes/dashboard-vendas-moda-powerbi/main/dashboard-vendas-moda-powerbi/imagens/pagina3_recomendacoes.png)
